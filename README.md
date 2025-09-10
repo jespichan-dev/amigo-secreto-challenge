@@ -16,10 +16,14 @@ Aplicación web sencilla para organizar y sortear el juego del **Amigo Secreto**
 ## 📸 Vista previa
 
 **Pantalla de inicio**  
-![Amigo Secreto main](assets/ejemplo-de-uso-de-app.jpg)  
+<p>
+  <img src="assets/ejemplo-de-uso-de-app.jpg" alt="Amigo Secreto main" width="300"/>
+</p>
 
 **Resultado del sorteo**  
-![Amigo Secreto result](assets/ejemplo-de-uso-de-app.jpg)  
+<p>
+  <img src="assets/ejemplo-de-uso-de-app2.jpg" alt="Amigo Secreto result" width="300"/>
+</p>
 
 ## ▶️ Uso
 1. Escribe el nombre de cada participante en el campo de texto.  
