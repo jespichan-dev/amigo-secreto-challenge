@@ -17,12 +17,12 @@ Aplicación web sencilla para organizar y sortear el juego del **Amigo Secreto**
 
 **Pantalla de inicio**  
 <p>
-  <img src="assets/ejemplo-de-uso-de-app.jpg" alt="Amigo Secreto main" width="300"/>
+  <img src="assets/pantalla-de-inicio.jpg" alt="Amigo Secreto main" width="450"/>
 </p>
 
 **Resultado del sorteo**  
 <p>
-  <img src="assets/ejemplo-de-uso-de-app2.jpg" alt="Amigo Secreto result" width="300"/>
+  <img src="assets/ejemplo-de-uso-de-app.jpg" alt="Amigo Secreto result" width="450"/>
 </p>
 
 ## ▶️ Uso
