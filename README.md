@@ -2,21 +2,21 @@
 
 Aplicación web sencilla para organizar y sortear el juego del **Amigo Secreto**.
 
-## 🚀 Funcionalidades
+# 🚀 Funcionalidades
 - Agregar nombres de los participantes.  
 - Mostrar la lista de amigos ingresados.  
 - Realizar un sorteo aleatorio para elegir al Amigo Secreto.  
 - Reiniciar la partida y comenzar un nuevo juego.  
 
-## 🛠️ Tecnologías
+# 🛠️ Tecnologías
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
+- JavaScript 
 
-## 📸 Vista previa
+# 📸 Vista previa
 ![Amigo Secreto](assets/amigo-secreto.png)
 
-## ▶️ Uso
+# ▶️ Uso
 1. Escribe el nombre de cada participante en el campo de texto.  
 2. Haz clic en el botón "Añadir" para agregar los nombres a la lista.  
 3. Cuando tengas todos los nombres, presiona el botón "Sortear Amigo Secreto".  
